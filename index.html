@@ -261,11 +261,6 @@
       radial-gradient(50% 70% at 90% 10%, var(--glow-2), transparent 70%);
   }
   .hero .wrap { padding-top: 64px; padding-bottom: 48px; }
-  .eyebrow {
-    display: inline-flex; align-items: center; gap: 8px; margin: 0 0 16px;
-    font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--accent);
-  }
-  .eyebrow::before { content: ""; width: 24px; height: 2px; background: var(--accent); border-radius: 2px; }
   h1 { font-size: clamp(2.1rem, 5.2vw, 3.6rem); line-height: var(--lh-h1); overflow-wrap: anywhere; letter-spacing: -0.03em; font-weight: 800; color: var(--text); margin: 0 0 18px; max-width: 18ch; }
   .lede { font-size: clamp(1.05rem, 1.6vw, 1.2rem); color: var(--text-2); max-width: 62ch; margin: 0 0 26px; }
   .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
@@ -407,7 +402,7 @@
   html[lang="sd"] { --lh: 2; --lh-h1: 1.6; --lh-h2: 1.7; --lh-s: 1.9; }
   html[lang="ks"], html[lang="ur"] { --lh: 2.1; --lh-h1: 1.9; --lh-h2: 1.9; --lh-s: 2; }
   html:not([lang="en"]) h1, html:not([lang="en"]) h2, html:not([lang="en"]) h3,
-  html:not([lang="en"]) .eyebrow, html:not([lang="en"]) thead th, html:not([lang="en"]) .toc-side h2,
+  html:not([lang="en"]) thead th, html:not([lang="en"]) .toc-side h2,
   html:not([lang="en"]) .num, html:not([lang="en"]) .lang-code { letter-spacing: 0; text-transform: none; }
   html:not([lang="en"]) h1 { max-width: 24ch; font-weight: 700; }
   html[dir="rtl"] .hero::before { transform: scaleX(-1); }
@@ -464,7 +459,6 @@
 
 <div class="hero" id="top">
   <div class="wrap">
-    <p class="eyebrow" data-i18n="hero.eyebrow">Legal</p>
     <h1 data-i18n="hero.title">Privacy Policy &amp; Terms of Use</h1>
     <p class="lede" data-i18n="hero.lede">This single policy covers every Pixel Astro utility app you download from Google Play or the Apple App Store. Short version: everything runs on your device, and we do not collect your personal data.</p>
     <ul class="chips">
