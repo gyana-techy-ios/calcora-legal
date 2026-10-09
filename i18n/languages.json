@@ -1,0 +1,163 @@
+[
+  {
+    "code": "en",
+    "name": "English",
+    "english": "English",
+    "dir": "ltr",
+    "font": "Inter"
+  },
+  {
+    "code": "as",
+    "name": "অসমীয়া",
+    "english": "Assamese",
+    "dir": "ltr",
+    "font": "Noto Sans Bengali"
+  },
+  {
+    "code": "bn",
+    "name": "বাংলা",
+    "english": "Bengali",
+    "dir": "ltr",
+    "font": "Noto Sans Bengali"
+  },
+  {
+    "code": "brx",
+    "name": "बड़ो",
+    "english": "Bodo",
+    "dir": "ltr",
+    "font": "Noto Sans Devanagari"
+  },
+  {
+    "code": "doi",
+    "name": "डोगरी",
+    "english": "Dogri",
+    "dir": "ltr",
+    "font": "Noto Sans Devanagari"
+  },
+  {
+    "code": "gu",
+    "name": "ગુજરાતી",
+    "english": "Gujarati",
+    "dir": "ltr",
+    "font": "Noto Sans Gujarati"
+  },
+  {
+    "code": "hi",
+    "name": "हिन्दी",
+    "english": "Hindi",
+    "dir": "ltr",
+    "font": "Noto Sans Devanagari"
+  },
+  {
+    "code": "kn",
+    "name": "ಕನ್ನಡ",
+    "english": "Kannada",
+    "dir": "ltr",
+    "font": "Noto Sans Kannada"
+  },
+  {
+    "code": "ks",
+    "name": "کٲشُر",
+    "english": "Kashmiri",
+    "dir": "rtl",
+    "font": "Noto Nastaliq Urdu"
+  },
+  {
+    "code": "kok",
+    "name": "कोंकणी",
+    "english": "Konkani",
+    "dir": "ltr",
+    "font": "Noto Sans Devanagari"
+  },
+  {
+    "code": "mai",
+    "name": "मैथिली",
+    "english": "Maithili",
+    "dir": "ltr",
+    "font": "Noto Sans Devanagari"
+  },
+  {
+    "code": "ml",
+    "name": "മലയാളം",
+    "english": "Malayalam",
+    "dir": "ltr",
+    "font": "Noto Sans Malayalam"
+  },
+  {
+    "code": "mni",
+    "name": "ꯃꯤꯇꯩꯂꯣꯟ",
+    "english": "Manipuri",
+    "dir": "ltr",
+    "font": "Noto Sans Meetei Mayek"
+  },
+  {
+    "code": "mr",
+    "name": "मराठी",
+    "english": "Marathi",
+    "dir": "ltr",
+    "font": "Noto Sans Devanagari"
+  },
+  {
+    "code": "ne",
+    "name": "नेपाली",
+    "english": "Nepali",
+    "dir": "ltr",
+    "font": "Noto Sans Devanagari"
+  },
+  {
+    "code": "or",
+    "name": "ଓଡ଼ିଆ",
+    "english": "Odia",
+    "dir": "ltr",
+    "font": "Noto Sans Oriya"
+  },
+  {
+    "code": "pa",
+    "name": "ਪੰਜਾਬੀ",
+    "english": "Punjabi",
+    "dir": "ltr",
+    "font": "Noto Sans Gurmukhi"
+  },
+  {
+    "code": "sa",
+    "name": "संस्कृतम्",
+    "english": "Sanskrit",
+    "dir": "ltr",
+    "font": "Noto Sans Devanagari"
+  },
+  {
+    "code": "sat",
+    "name": "ᱥᱟᱱᱛᱟᱲᱤ",
+    "english": "Santali",
+    "dir": "ltr",
+    "font": "Noto Sans Ol Chiki"
+  },
+  {
+    "code": "sd",
+    "name": "سنڌي",
+    "english": "Sindhi",
+    "dir": "rtl",
+    "font": "Noto Naskh Arabic"
+  },
+  {
+    "code": "ta",
+    "name": "தமிழ்",
+    "english": "Tamil",
+    "dir": "ltr",
+    "font": "Noto Sans Tamil"
+  },
+  {
+    "code": "te",
+    "name": "తెలుగు",
+    "english": "Telugu",
+    "dir": "ltr",
+    "font": "Noto Sans Telugu"
+  },
+  {
+    "code": "ur",
+    "name": "اردو",
+    "english": "Urdu",
+    "dir": "rtl",
+    "font": "Noto Nastaliq Urdu"
+  }
+]
